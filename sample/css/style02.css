@@ -52,7 +52,7 @@ header{
   
 }
 
-.button{
+#button{
   margin: 10px 2px;
     padding: 5px 15px;
     background-color: rgb(251, 255, 199);
