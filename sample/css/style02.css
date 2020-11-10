@@ -17,6 +17,7 @@ header{
   align-items: center;
   z-index: 100;
   top: 0;
+  font-family:'Noto Serif JP', sans-serif;
 }
 
 #wave{
