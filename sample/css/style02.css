@@ -52,7 +52,7 @@ header{
 }
 
 .set{
-  background-color: #ccc;
+  background-color: rgb(255, 255, 255);
   min-height: 400px;
   margin-bottom: 40px;
 }
