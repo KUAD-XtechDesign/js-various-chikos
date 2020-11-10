@@ -12,7 +12,7 @@ img{
 
 header{
   position: fixed;
-  width: 100%;
+  width: auto;
   background-color: rgba(255, 255, 255, 0.9);
   padding: 20px;
   display: flex;
@@ -20,6 +20,7 @@ header{
   z-index: 100;
   top: 0;
   font-family:'Noto Serif JP', sans-serif;
+  
 }
 
 #wave{
