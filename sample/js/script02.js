@@ -50,10 +50,7 @@ $(function(){
   let colors = ["#6495ed","d3d3d3","fffaf0","#98004C","#323232","#E5E5E5","#CB0000","#32000C"]
   $("#button").on("click",function(){
     let random = Math.random();
-    
     let num = Math.floor(random * colors.length)
     $("#box").css("background-color",colors[num])
   })
-
-
 })
